@@ -2,7 +2,7 @@ const albums = [
   {
     artist: 'Green Day',
     name: '¡TRÉ!',
-    releaseYear: 2019,
+    releaseYear: 2012,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Green_Day_-_Tr%C3%A9%21_cover.jpg/220px-Green_Day_-_Tr%C3%A9%21_cover.jpg'
   },
