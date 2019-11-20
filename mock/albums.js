@@ -80,5 +80,47 @@ const albums = [
     releaseYear: 2000,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Linkin_park_hybrid_theory.jpg/220px-Linkin_park_hybrid_theory.jpg'
+  },
+  {
+    artist: 'Catedral',
+    name: 'Acima do Nível do Mar',
+    releaseYear: 2003,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/f/f0/Catedral_-_Acima_do_N%C3%ADvel_do_Mar.jpg/220px-Catedral_-_Acima_do_N%C3%ADvel_do_Mar.jpg'
+  },
+  {
+    artist: 'Matanza',
+    name: 'Santa Madre Cassino',
+    releaseYear: 2006,
+    cover:
+      'https://armazemdovinil.com/wp-content/uploads/2014/11/LP-Matanza-Santa-Madre-Cassino-510x510.jpg'
+  },
+  {
+    artist: 'Legião Urbana',
+    name: 'As Quatro Estações',
+    releaseYear: 1989,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/e/e9/Legi%C3%A3o_Urbana_-_As_Quatro_Esta%C3%A7%C3%B5es.jpg'
+  },
+  {
+    artist: 'Legião Urbana',
+    name: 'Dois',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/7/72/Legi%C3%A3o_Urbana_-_Dois.jpg'
+  },
+  {
+    artist: 'Legião Urbana',
+    name: 'V',
+    releaseYear: 1991,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/5/56/Legi%C3%A3o_Urbana_-_V.jpg'
+  },
+  {
+    artist: 'Legião Urbana',
+    name: 'O Descobrimento Do Brasil',
+    releaseYear: 1993,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Descobrimento_do_brasil.jpg/220px-Descobrimento_do_brasil.jpg'
   }
 ];
