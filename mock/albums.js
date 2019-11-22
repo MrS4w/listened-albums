@@ -122,5 +122,46 @@ const albums = [
     releaseYear: 1993,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Descobrimento_do_brasil.jpg/220px-Descobrimento_do_brasil.jpg'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'Seventh Son Of A Seventh Son',
+    releaseYear: 1988,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/c/c0/Iron_Maiden_-_Seventh_Son_Of_A_Seventh_Son.jpg'
+  },
+  {
+    artist: 'Led Zeppelin',
+    name: 'Led Zeppelin IV',
+    releaseYear: 1971,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/4/4b/LedZeppelinIV.jpg'
+  },
+  {
+    artist: 'Inocentes',
+    name: 'Pânico em SP',
+    releaseYear: 1986,
+    cover: 'http://www.museudocd.com.br/produtos/prod23599.jpg'
+  },
+  {
+    artist: 'Ramones',
+    name: 'Brain Drain',
+    releaseYear: 1989,
+    cover:
+      'https://http2.mlstatic.com/cd-ramones-brain-drain-D_NQ_NP_936315-MLB27785263749_072018-F.jpg'
+  },
+  {
+    artist: 'Panic! at the Disco',
+    name: 'Death Of A Bachelor',
+    releaseYear: 2016,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/81hKk1Evy%2BL._SL1422_.jpg'
+  },
+  {
+    artist: 'Matanza Inc',
+    name:
+      'Crônicas do Post Mortem: Um Guia Para Demônios e Espíritos Obsessores',
+    releaseYear: 2019,
+    cover:
+      'http://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/05/matanza-inc-cronicas-post-mortem-capa.jpg'
   }
 ];
