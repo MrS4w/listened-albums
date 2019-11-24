@@ -163,5 +163,47 @@ const albums = [
     releaseYear: 2019,
     cover:
       'http://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/05/matanza-inc-cronicas-post-mortem-capa.jpg'
+  },
+  {
+    artist: 'Raimundos, Ultraje a Rigor',
+    name: 'Ultraje a Rigor X Raimundos',
+    releaseYear: 2012,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/3/3b/Ultrajearigorvsraimundos.jpg'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'Powerslave',
+    releaseYear: 1984,
+    cover:
+      'https://lastfm.freetls.fastly.net/i/u/770x0/d986e23bb975697ca430073c96c18c08.jpg'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'The Number Of The Beast',
+    releaseYear: 1982,
+    cover:
+      'https://http2.mlstatic.com/iron-maiden-the-number-of-the-beast-D_NQ_NP_666772-MLB26992170434_032018-F.jpg'
+  },
+  {
+    artist: 'Europe',
+    name: 'The Final Countdown',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/8/84/TheFinalCountdown.jpg/220px-TheFinalCountdown.jpg'
+  },
+  {
+    artist: 'Raimundos',
+    name: 'Éramos 4',
+    releaseYear: 2001,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/e/e8/Raimundos_-_%C3%89ramos_4_-_2001.jpg'
+  },
+  {
+    artist: 'Misfits',
+    name: 'Static Age',
+    releaseYear: 1997,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Misfits_-_Static_Age_cover.jpg/220px-Misfits_-_Static_Age_cover.jpg'
   }
 ];
