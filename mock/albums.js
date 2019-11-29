@@ -205,5 +205,126 @@ const albums = [
     releaseYear: 1997,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Misfits_-_Static_Age_cover.jpg/220px-Misfits_-_Static_Age_cover.jpg'
+  },
+  {
+    artist: 'Mötley Crüe',
+    name: 'Shout At The Devil',
+    releaseYear: 1983,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/81GNOBE273L._SL1500_.jpg'
+  },
+  {
+    artist: 'Ozzy Osbourne',
+    name: 'Diary Of A Madman',
+    releaseYear: 1981,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Diary-of-a-Madman.jpg/220px-Diary-of-a-Madman.jpg'
+  },
+  {
+    artist: 'Mötley Crüe',
+    name: 'Too Fast For Love',
+    releaseYear: 1981,
+    cover: 'http://roadie-metal.com/wp-content/uploads/2018/11/CD17574.jpg'
+  },
+  {
+    artist: 'Metallica',
+    name: 'Master Of Puppets',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/4/4d/Master_of_Puppets.jpg/220px-Master_of_Puppets.jpg'
+  },
+  {
+    artist: 'Nirvana',
+    name: 'In Utero',
+    releaseYear: 1993,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/b/b4/InUtero.jpeg'
+  },
+  {
+    artist: 'Ramones',
+    name: 'Ramones',
+    releaseYear: 1976,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/b/bb/Ramones_-_Ramones_cover.jpg'
+  },
+  {
+    artist: 'Radiohead',
+    name: 'OK Computer',
+    releaseYear: 1997,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Radiohead.okcomputer.albumart.jpg/220px-Radiohead.okcomputer.albumart.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Paranoid',
+    releaseYear: 1970,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/51557Q%2Bj2cL._SY355_.jpg'
+  },
+  {
+    artist: 'Slipknot',
+    name: 'We Are Not Your Kind',
+    releaseYear: 2019,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/1/18/Slipknot_-_We_Are_Not_Your_Kind.png'
+  },
+  {
+    artist: 'Anthrax',
+    name: 'Fistful of Metal',
+    releaseYear: 1984,
+    cover: 'https://m.media-amazon.com/images/I/817qhS4vfEL._SS500_.jpg'
+  },
+  {
+    artist: 'Ghost',
+    name: 'Prequelle',
+    releaseYear: 2018,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/6/6a/Prequelle.jpg'
+  },
+  {
+    artist: 'Nervosa',
+    name: 'Victim Of Yourself',
+    releaseYear: 2014,
+    cover:
+      'https://studiosol-a.akamaihd.net/uploadfile/letras/albuns/8/5/e/3/406581419867449.jpg'
+  },
+  {
+    artist: 'Avenged Sevenfold',
+    name: 'Nightmare',
+    releaseYear: 2010,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/2/29/Avenged-Sevenfold-Nightmare.jpg.png/220px-Avenged-Sevenfold-Nightmare.jpg.png'
+  },
+  {
+    artist: 'Angra',
+    name: 'Rebirth',
+    releaseYear: 2001,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/5/5a/RebirthAngra.jpg/220px-RebirthAngra.jpg'
+  },
+  {
+    artist: 'System Of A Down',
+    name: 'Steal This Album!',
+    releaseYear: 2002,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/4/45/StealThisAlbum.png'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'No Prayer for the Dying',
+    releaseYear: 1990,
+    cover:
+      'https://livrariascuritiba.vteximg.com.br/arquivos/ids/1865600-525-525/av014002_1.jpg?v=636947610598530000'
+  },
+  {
+    artist: 'Queen',
+    name: 'A Night at the Opera',
+    releaseYear: 1975,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/b/bf/A_Night_at_the_Opera_Queen.jpg'
+  },
+  {
+    artist: 'Judas Priest',
+    name: 'Defenders Of The Faith',
+    releaseYear: 1984,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Defenders_of_the_Faith.jpg/220px-Defenders_of_the_Faith.jpg'
   }
 ];
