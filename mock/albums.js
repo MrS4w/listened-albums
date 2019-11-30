@@ -326,5 +326,11 @@ const albums = [
     releaseYear: 1984,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Defenders_of_the_Faith.jpg/220px-Defenders_of_the_Faith.jpg'
+  },
+  {
+    artist: 'Dio',
+    name: 'Holy Diver',
+    releaseYear: 1983,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/8/85/HolyDiver.jpg'
   }
 ];
