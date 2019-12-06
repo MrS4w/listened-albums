@@ -332,5 +332,12 @@ const albums = [
     name: 'Holy Diver',
     releaseYear: 1983,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/8/85/HolyDiver.jpg'
+  },
+  {
+    artist: 'Rainbow',
+    name: 'Rising',
+    releaseYear: 1976,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/Rainbow_Rising.jpg/220px-Rainbow_Rising.jpg'
   }
 ];
