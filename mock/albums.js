@@ -339,5 +339,12 @@ const albums = [
     releaseYear: 1976,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/Rainbow_Rising.jpg/220px-Rainbow_Rising.jpg'
+  },
+  {
+    artist: 'Rainbow',
+    name: "Ritchie Blackmore's Rainbow",
+    releaseYear: 1975,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/8/8f/Rainbow_-_Ritchie_Blackmore%27s_Rainbow_%281975%29_front_cover.jpg'
   }
 ];
