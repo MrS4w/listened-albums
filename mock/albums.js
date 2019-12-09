@@ -346,5 +346,11 @@ const albums = [
     releaseYear: 1975,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/8/8f/Rainbow_-_Ritchie_Blackmore%27s_Rainbow_%281975%29_front_cover.jpg'
+  },
+  {
+    artist: 'Queen',
+    name: 'Jazz',
+    releaseYear: 1978,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/0/06/Queen_Jazz.png'
   }
 ];
