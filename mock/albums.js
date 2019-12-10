@@ -352,5 +352,12 @@ const albums = [
     name: 'Jazz',
     releaseYear: 1978,
     cover: 'https://upload.wikimedia.org/wikipedia/en/0/06/Queen_Jazz.png'
+  },
+  {
+    artist: 'KISS',
+    name: 'Love Gun',
+    releaseYear: 1977,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/5/58/Kiss_love_gun.jpg/220px-Kiss_love_gun.jpg'
   }
 ];
