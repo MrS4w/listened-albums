@@ -7,3 +7,8 @@ body {
   background-color: #37273d;
   border-color: #c9c2c2;
 }
+
+img:hover {
+  transform: scale(1.05);
+  transition: 0.7s;
+}

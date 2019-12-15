@@ -366,5 +366,12 @@ const albums = [
     releaseYear: 1973,
     cover:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIcHWfdzM7I_9rXAx9Kdv3SFqTXS9ScKR4cMSXgolVHA3QHD3l'
+  },
+  {
+    artist: 'David Bowie',
+    name: 'Hunky Dory',
+    releaseYear: 1971,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/4/40/David_Bowie_-_Hunky_Dory.jpg'
   }
 ];
