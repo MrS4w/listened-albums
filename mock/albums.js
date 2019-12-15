@@ -373,5 +373,12 @@ const albums = [
     releaseYear: 1971,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/4/40/David_Bowie_-_Hunky_Dory.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Dehumanizer',
+    releaseYear: 1992,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/1/12/Black-sabbath-dehumanizer.jpg/220px-Black-sabbath-dehumanizer.jpg'
   }
 ];
