@@ -359,5 +359,12 @@ const albums = [
     releaseYear: 1977,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/5/58/Kiss_love_gun.jpg/220px-Kiss_love_gun.jpg'
+  },
+  {
+    artist: 'David Bowie',
+    name: 'Aladdin Sane',
+    releaseYear: 1973,
+    cover:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIcHWfdzM7I_9rXAx9Kdv3SFqTXS9ScKR4cMSXgolVHA3QHD3l'
   }
 ];
