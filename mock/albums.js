@@ -380,5 +380,12 @@ const albums = [
     releaseYear: 1992,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/1/12/Black-sabbath-dehumanizer.jpg/220px-Black-sabbath-dehumanizer.jpg'
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Há 10 Mil Anos Atrás',
+    releaseYear: 1976,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/6/6b/H%C3%A1_10_Mil_Anos_Atr%C3%A1s.jpg'
   }
 ];
