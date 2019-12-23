@@ -2,7 +2,7 @@ const target = document.querySelector('#albums');
 
 albums.forEach((album, index) => {
   target.innerHTML += `
-    <div class="card col-lg-2 col-md-3 col-xs-6 p-2">
+    <div class="card col-lg-2 col-md-3 p-2">
         <img
         src="${album.cover}"
         class="card-img-top"

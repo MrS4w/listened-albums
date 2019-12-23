@@ -387,5 +387,12 @@ const albums = [
     releaseYear: 1976,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/6/6b/H%C3%A1_10_Mil_Anos_Atr%C3%A1s.jpg'
+  },
+  {
+    artist: 'Motörhead',
+    name: 'Motörhead',
+    releaseYear: 1977,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Mot%C3%B6rhead_-_Mot%C3%B6rhead_%281977%29.jpg/220px-Mot%C3%B6rhead_-_Mot%C3%B6rhead_%281977%29.jpg'
   }
 ];
