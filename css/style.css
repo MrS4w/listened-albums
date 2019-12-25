@@ -9,6 +9,9 @@ body {
 }
 
 img:hover {
-  transform: scale(1.05);
-  transition: 0.7s;
+  transform: scale(1.035);
+}
+
+img {
+  transition: 1s;
 }
