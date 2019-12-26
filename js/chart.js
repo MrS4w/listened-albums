@@ -28,7 +28,7 @@ const chart = new Chart(context, {
   options: {
     title: {
       display: true,
-      text: 'Number of albums for decades '
+      text: 'Number of albums for decades'
     }
   }
 });
