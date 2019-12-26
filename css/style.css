@@ -15,3 +15,9 @@ img:hover {
 img {
   transition: 1s;
 }
+
+.chart {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

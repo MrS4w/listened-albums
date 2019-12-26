@@ -19,8 +19,8 @@
   </head>
   <body>
     <div class="container">
-      <div class="row">
-        <div class="jumbotron mt-5">
+      <div class="row mt-4">
+        <div class="jumbotron">
           <p>
             On January 9, 2019, inspired by an idea seen on Twitter, I decided
             that with every new album I listened to in the year, I would respond
@@ -31,13 +31,25 @@
               >thread</a
             >, so I decided to put it on a web page as a kind of "mural".
           </p>
+          <p>
+            There's also a playlist with all these albums <a href="">here</a>.
+          </p>
         </div>
       </div>
+
+      <div class="row chart jumbotron">
+        <div class="col-lg-8 col-sm-12">
+          <canvas id="myChart"></canvas>
+        </div>
+      </div>
+
       <div id="albums" class="row"></div>
     </div>
 
     <!-- JS scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
     <script src="mock/albums.js"></script>
+    <script src="js/chart.js"></script>
     <script src="js/service.js"></script>
   </body>
 </html>
