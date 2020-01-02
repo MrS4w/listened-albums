@@ -22,8 +22,16 @@ img {
   flex-direction: column;
 }
 
+header {
+  padding: 1%;
+}
+
 footer {
   padding: 3%;
+}
+
+header,
+footer {
   background-image: linear-gradient(#455a64, #000);
   color: #fff;
   text-align: center;
