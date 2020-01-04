@@ -19,5 +19,12 @@ const albums = [
     releaseYear: 2003,
     cover:
       'https://is1-ssl.mzstatic.com/image/thumb/Music/v4/04/79/6b/04796b5e-e015-4c94-05a0-3cacefc1e307/source/1200x1200bb.jpg'
+  },
+  {
+    artist: 'The Beatles',
+    name: "A Hard Day's Night",
+    releaseYear: 1964,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/A-hard-days-night.jpg/200px-A-hard-days-night.jpg'
   }
 ];
