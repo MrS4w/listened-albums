@@ -26,5 +26,12 @@ const albums = [
     releaseYear: 1964,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/A-hard-days-night.jpg/200px-A-hard-days-night.jpg'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'Somewhere in Time',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Iron_Maiden_-_Somewhere_in_Time.jpg/220px-Iron_Maiden_-_Somewhere_in_Time.jpg'
   }
 ];
