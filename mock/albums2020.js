@@ -33,5 +33,11 @@ const albums = [
     releaseYear: 1986,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Iron_Maiden_-_Somewhere_in_Time.jpg/220px-Iron_Maiden_-_Somewhere_in_Time.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Master of Reality',
+    releaseYear: 1971,
+    cover: 'https://i.ebayimg.com/images/g/n~AAAOSwCgNbuMdj/s-l300.jpg'
   }
 ];
