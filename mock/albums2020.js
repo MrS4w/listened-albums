@@ -39,5 +39,12 @@ const albums = [
     name: 'Master of Reality',
     releaseYear: 1971,
     cover: 'https://i.ebayimg.com/images/g/n~AAAOSwCgNbuMdj/s-l300.jpg'
+  },
+  {
+    artist: 'Judas Priest',
+    name: 'British Steel',
+    releaseYear: 1980,
+    cover:
+      'https://www.yurisrecords.com/wp-content/uploads/2017/01/judas-priest-british-steel.jpg'
   }
 ];
