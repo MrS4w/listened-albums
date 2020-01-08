@@ -46,5 +46,11 @@ const albums = [
     releaseYear: 1980,
     cover:
       'https://www.yurisrecords.com/wp-content/uploads/2017/01/judas-priest-british-steel.jpg'
+  },
+  {
+    artist: 'Ratt',
+    name: 'Detonator',
+    releaseYear: 1990,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/6/6f/DetonatorRatt.jpg'
   }
 ];
