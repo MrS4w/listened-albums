@@ -52,5 +52,12 @@ const albums = [
     name: 'Detonator',
     releaseYear: 1990,
     cover: 'https://upload.wikimedia.org/wikipedia/en/6/6f/DetonatorRatt.jpg'
+  },
+  {
+    artist: 'Misfits',
+    name: 'Famous Monsters',
+    releaseYear: 1999,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/c/cb/Misfits_-_Famous_Monsters_cover.jpg'
   }
 ];
