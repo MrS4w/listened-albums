@@ -59,5 +59,12 @@ const albums = [
     releaseYear: 1999,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/c/cb/Misfits_-_Famous_Monsters_cover.jpg'
+  },
+  {
+    artist: 'Sex Pistols',
+    name: "Never Mind the Bollocks, Here's the Sex Pistols",
+    releaseYear: 1977,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/3/33/NevermindTheBollocks.jpg'
   }
 ];
