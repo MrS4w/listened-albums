@@ -66,5 +66,12 @@ const albums = [
     releaseYear: 1977,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/3/33/NevermindTheBollocks.jpg'
+  },
+  {
+    artist: 'Green Day',
+    name: 'Revolution Radio',
+    releaseYear: 2016,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/1/18/GreenDayRevRad.jpg/220px-GreenDayRevRad.jpg'
   }
 ];
