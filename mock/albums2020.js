@@ -73,5 +73,12 @@ const albums = [
     releaseYear: 2016,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/1/18/GreenDayRevRad.jpg/220px-GreenDayRevRad.jpg'
+  },
+  {
+    artist: 'Rush',
+    name: 'Fly by Night',
+    releaseYear: 1975,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/0/00/Rush_Fly_by_Night.jpg'
   }
 ];
