@@ -189,8 +189,7 @@ const albums = [
     artist: 'Europe',
     name: 'The Final Countdown',
     releaseYear: 1986,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/pt/thumb/8/84/TheFinalCountdown.jpg/220px-TheFinalCountdown.jpg'
+    cover: 'https://popsdiscos.com.br/images/uploads/SBM69843-2%20EUROPE.jpg'
   },
   {
     artist: 'Raimundos',
