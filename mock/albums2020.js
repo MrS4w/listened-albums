@@ -80,5 +80,12 @@ const albums = [
     releaseYear: 1975,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/0/00/Rush_Fly_by_Night.jpg'
+  },
+  {
+    artist: 'Pantera',
+    name: 'Cowboys from Hell',
+    releaseYear: 1990,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/91gDINDQ7sL._SL1425_.jpg'
   }
 ];
