@@ -87,5 +87,12 @@ const albums = [
     releaseYear: 1990,
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/91gDINDQ7sL._SL1425_.jpg'
+  },
+  {
+    artist: 'Dio',
+    name: 'Strange Highways',
+    releaseYear: 1993,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/4/40/DioStrangeHighways.jpg'
   }
 ];
