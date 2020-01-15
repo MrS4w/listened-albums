@@ -94,5 +94,12 @@ const albums = [
     releaseYear: 1993,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/4/40/DioStrangeHighways.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Sabotage',
+    releaseYear: 1975,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Black_Sabbath_Sabotage.jpg/220px-Black_Sabbath_Sabotage.jpg'
   }
 ];
