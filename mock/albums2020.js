@@ -101,5 +101,11 @@ const albums = [
     releaseYear: 1975,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Black_Sabbath_Sabotage.jpg/220px-Black_Sabbath_Sabotage.jpg'
+  },
+  {
+    artist: 'Aerosmith',
+    name: 'Pump',
+    releaseYear: 1989,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/2/20/Aerosmith_Pump.jpg'
   }
 ];
