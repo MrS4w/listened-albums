@@ -107,5 +107,12 @@ const albums = [
     name: 'Pump',
     releaseYear: 1989,
     cover: 'https://upload.wikimedia.org/wikipedia/en/2/20/Aerosmith_Pump.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Black Sabbath',
+    releaseYear: 1970,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/d/da/Black_Sabbath_debut_album.jpg'
   }
 ];
