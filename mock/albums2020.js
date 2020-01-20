@@ -114,5 +114,12 @@ const albums = [
     releaseYear: 1970,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/d/da/Black_Sabbath_debut_album.jpg'
+  },
+  {
+    artist: 'Elf',
+    name: 'Elf',
+    releaseYear: 1972,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Elf-Elf.jpg/220px-Elf-Elf.jpg'
   }
 ];
