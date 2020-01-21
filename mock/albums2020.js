@@ -121,5 +121,12 @@ const albums = [
     releaseYear: 1972,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Elf-Elf.jpg/220px-Elf-Elf.jpg'
+  },
+  {
+    artist: 'AC/DC',
+    name: 'High Voltage',
+    releaseYear: 1976,
+    cover:
+      'https://cdn-s3.allmusic.com/release-covers/500/0000/279/0000279905.jpg'
   }
 ];
