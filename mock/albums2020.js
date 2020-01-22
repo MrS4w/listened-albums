@@ -135,5 +135,11 @@ const albums = [
     releaseYear: 1984,
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/71VpqI19tpL._AC_SY355_.jpg'
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Krig-ha, Bandolo!',
+    releaseYear: 1973,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/7/75/KrigHaBandolo.jpg'
   }
 ];
