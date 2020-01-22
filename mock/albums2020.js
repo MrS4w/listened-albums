@@ -128,5 +128,12 @@ const albums = [
     releaseYear: 1976,
     cover:
       'https://cdn-s3.allmusic.com/release-covers/500/0000/279/0000279905.jpg'
+  },
+  {
+    artist: 'Metallica',
+    name: 'Ride The Lightning',
+    releaseYear: 1984,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/71VpqI19tpL._AC_SY355_.jpg'
   }
 ];
