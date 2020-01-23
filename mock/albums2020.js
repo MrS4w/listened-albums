@@ -148,5 +148,12 @@ const albums = [
     releaseYear: 1973,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/5/58/Aerosmith_-_Aerosmith.jpg'
+  },
+  {
+    artist: 'Slayer',
+    name: 'Reign In Blood',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/1/13/Reign_in_blood_-_slayer_-_1986.jpg'
   }
 ];
