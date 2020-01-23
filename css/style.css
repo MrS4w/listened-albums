@@ -14,7 +14,6 @@ img:hover {
 
 img {
   transition: 1s;
-  height: 175px;
 }
 
 .chart {
@@ -36,4 +35,10 @@ footer {
   background-image: linear-gradient(#455a64, #000);
   color: #fff;
   text-align: center;
+}
+
+@media (min-width: 768px) {
+  img {
+    height: 55%;
+  }
 }
