@@ -141,5 +141,12 @@ const albums = [
     name: 'Krig-ha, Bandolo!',
     releaseYear: 1973,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/7/75/KrigHaBandolo.jpg'
+  },
+  {
+    artist: 'Aerosmith',
+    name: 'Aerosmith',
+    releaseYear: 1973,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/5/58/Aerosmith_-_Aerosmith.jpg'
   }
 ];
