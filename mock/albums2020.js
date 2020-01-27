@@ -155,5 +155,12 @@ const albums = [
     releaseYear: 1986,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/1/13/Reign_in_blood_-_slayer_-_1986.jpg'
+  },
+  {
+    artist: 'Misfits',
+    name: 'American Psycho',
+    releaseYear: 1997,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/713yDJUWZ2L._AC_SY355_.jpg'
   }
 ];
