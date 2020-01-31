@@ -162,5 +162,12 @@ const albums = [
     releaseYear: 1997,
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/713yDJUWZ2L._AC_SY355_.jpg'
+  },
+  {
+    artist: 'Pearl Jam',
+    name: 'Ten',
+    releaseYear: 1991,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Ten_Pearl_Jam.jpg/220px-Ten_Pearl_Jam.jpg'
   }
 ];
