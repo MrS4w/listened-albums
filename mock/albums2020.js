@@ -169,5 +169,12 @@ const albums = [
     releaseYear: 1991,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Ten_Pearl_Jam.jpg/220px-Ten_Pearl_Jam.jpg'
+  },
+  {
+    artist: 'Black Sabbath',
+    name: 'Sabbath Bloody Sabbath',
+    releaseYear: 1973,
+    cover:
+      'https://townsquare.media/site/366/files/2015/09/Sabbath-Bloody-Sabbath.png?w=980&q=75'
   }
 ];
