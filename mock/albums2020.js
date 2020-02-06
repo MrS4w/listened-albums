@@ -176,5 +176,12 @@ const albums = [
     releaseYear: 1973,
     cover:
       'https://townsquare.media/site/366/files/2015/09/Sabbath-Bloody-Sabbath.png?w=980&q=75'
+  },
+  {
+    artist: 'KISS',
+    name: 'Kiss',
+    releaseYear: 1974,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Kiss_first_album_cover.jpg/220px-Kiss_first_album_cover.jpg'
   }
 ];
