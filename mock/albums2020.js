@@ -183,5 +183,12 @@ const albums = [
     releaseYear: 1974,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Kiss_first_album_cover.jpg/220px-Kiss_first_album_cover.jpg'
+  },
+  {
+    artist: 'Dio',
+    name: 'Master of the Moon',
+    releaseYear: 2004,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/DioMasterOfTheMoon.jpg/220px-DioMasterOfTheMoon.jpg'
   }
 ];
