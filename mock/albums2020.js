@@ -190,5 +190,12 @@ const albums = [
     releaseYear: 2004,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/DioMasterOfTheMoon.jpg/220px-DioMasterOfTheMoon.jpg'
+  },
+  {
+    artist: 'Rage Against the Machine',
+    name: 'Rage Against the Machine',
+    releaseYear: 1992,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/1/1a/RageAgainsttheMachineRageAgainsttheMachine.jpg'
   }
 ];
