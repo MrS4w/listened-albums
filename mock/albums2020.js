@@ -197,5 +197,12 @@ const albums = [
     releaseYear: 1992,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/1/1a/RageAgainsttheMachineRageAgainsttheMachine.jpg'
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Novo Aeon',
+    releaseYear: 1975,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/c/c4/Novo-aeon.jpeg/220px-Novo-aeon.jpeg'
   }
 ];
