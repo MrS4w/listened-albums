@@ -204,5 +204,12 @@ const albums = [
     releaseYear: 1975,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/c/c4/Novo-aeon.jpeg/220px-Novo-aeon.jpeg'
+  },
+  {
+    artist: 'Lynyrd Skynyrd',
+    name: 'Second Helping',
+    releaseYear: 1974,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/SecondHelpingLynyrdSkynyrd.jpg/220px-SecondHelpingLynyrdSkynyrd.jpg'
   }
 ];
