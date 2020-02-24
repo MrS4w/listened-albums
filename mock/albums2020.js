@@ -211,5 +211,12 @@ const albums = [
     releaseYear: 1974,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/SecondHelpingLynyrdSkynyrd.jpg/220px-SecondHelpingLynyrdSkynyrd.jpg'
+  },
+  {
+    artist: 'Ozzy Osbourne',
+    name: 'Ordinary Man',
+    releaseYear: 2020,
+    cover:
+      'https://whiplash.net/imagens_promo/ozzyosbourne_capa_ordinaryman.jpg'
   }
 ];
