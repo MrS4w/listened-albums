@@ -218,5 +218,11 @@ const albums = [
     releaseYear: 2020,
     cover:
       'https://whiplash.net/imagens_promo/ozzyosbourne_capa_ordinaryman.jpg'
+  },
+  {
+    artist: 'Ozzy Osbourne',
+    name: 'No More Tears',
+    releaseYear: 1991,
+    cover: 'https://i.ebayimg.com/images/g/OncAAOSwJstasr3K/s-l400.jpg'
   }
 ];
