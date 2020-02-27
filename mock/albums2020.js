@@ -224,5 +224,12 @@ const albums = [
     name: 'No More Tears',
     releaseYear: 1991,
     cover: 'https://i.ebayimg.com/images/g/OncAAOSwJstasr3K/s-l400.jpg'
+  },
+  {
+    artist: 'Iron Maiden',
+    name: 'Iron Maiden',
+    releaseYear: 1980,
+    cover:
+      'https://static.fnac-static.com/multimedia/Images/FR/NR/99/56/5f/6248089/1540-1/tsp20140827103036/Iron-Maiden.jpg'
   }
 ];
