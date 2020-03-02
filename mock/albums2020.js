@@ -231,5 +231,12 @@ const albums = [
     releaseYear: 1980,
     cover:
       'https://static.fnac-static.com/multimedia/Images/FR/NR/99/56/5f/6248089/1540-1/tsp20140827103036/Iron-Maiden.jpg'
+  },
+  {
+    artist: 'Pantera',
+    name: 'Far Beyond Driven',
+    releaseYear: 1994,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pantera-FarBeyondDriven.jpg/220px-Pantera-FarBeyondDriven.jpg'
   }
 ];
