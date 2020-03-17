@@ -238,5 +238,12 @@ const albums = [
     releaseYear: 1994,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pantera-FarBeyondDriven.jpg/220px-Pantera-FarBeyondDriven.jpg'
+  },
+  {
+    artist: 'Raulzito e os Panteras',
+    name: 'Raulzito e os Panteras',
+    releaseYear: 1968,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Raulzito_e_os_Panteras.jpg/220px-Raulzito_e_os_Panteras.jpg'
   }
 ];
