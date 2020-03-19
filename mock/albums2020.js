@@ -245,5 +245,12 @@ const albums = [
     releaseYear: 1968,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Raulzito_e_os_Panteras.jpg/220px-Raulzito_e_os_Panteras.jpg'
+  },
+  {
+    artist: 'Radiohead',
+    name: 'In Rainbows',
+    releaseYear: 2007,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/In_Rainbows_Official_Cover.jpg/220px-In_Rainbows_Official_Cover.jpg'
   }
 ];
