@@ -252,5 +252,12 @@ const albums = [
     releaseYear: 2007,
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/In_Rainbows_Official_Cover.jpg/220px-In_Rainbows_Official_Cover.jpg'
+  },
+  {
+    artist: 'Raimundos',
+    name: 'Só no Forevis',
+    releaseYear: 1999,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/SoNoForevis.jpg/220px-SoNoForevis.jpg'
   }
 ];
