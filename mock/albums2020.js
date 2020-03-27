@@ -259,5 +259,12 @@ const albums = [
     releaseYear: 1999,
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/SoNoForevis.jpg/220px-SoNoForevis.jpg'
+  },
+  {
+    artist: 'Ozzy Osbourne',
+    name: 'Blizzard of Ozz',
+    releaseYear: 1980,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/71shg4iED3L._AC_SL1500_.jpg'
   }
 ];
