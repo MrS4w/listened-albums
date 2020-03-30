@@ -266,5 +266,11 @@ const albums = [
     releaseYear: 1980,
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/71shg4iED3L._AC_SL1500_.jpg'
+  },
+  {
+    artist: 'Alice Cooper',
+    name: "School's Out",
+    releaseYear: 1972,
+    cover: 'http://roadie-metal.com/wp-content/uploads/2019/02/schools-out.png'
   }
 ];
