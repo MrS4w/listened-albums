@@ -272,5 +272,11 @@ const albums = [
     name: "School's Out",
     releaseYear: 1972,
     cover: 'http://roadie-metal.com/wp-content/uploads/2019/02/schools-out.png'
+  },
+  {
+    artist: 'Angra',
+    name: 'Angels Cry',
+    releaseYear: 1993,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/7/78/AngraAngelsCry.jpg'
   }
 ];
