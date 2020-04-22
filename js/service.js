@@ -5,6 +5,7 @@ albums.forEach((album, index) => {
     <div class="card col-lg-2 col-md-3 p-2">
       <img
         src="${album.cover}"
+        alt="${album.artist} - ${album.name}"
         class="card-img-top"
       />
       <span class="text-center">#${index + 1}</span>
