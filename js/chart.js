@@ -1,6 +1,6 @@
 function getAlbumsQuantityByYear(firstYear, lastYear) {
   const albumsQuantity = albums.filter(
-    album => album.releaseYear >= firstYear && album.releaseYear <= lastYear
+    (album) => album.releaseYear >= firstYear && album.releaseYear <= lastYear
   ).length;
   return albumsQuantity;
 }
@@ -28,7 +28,7 @@ const chart = new Chart(context, {
           '#f92',
           '#700',
           '#077',
-          '#666'
+          '#666',
         ],
         borderColor: '#fff',
         data: [
@@ -38,15 +38,15 @@ const chart = new Chart(context, {
           ninety,
           twoThousand,
           twoThousandTen,
-          twoThousandTwenty
-        ]
-      }
-    ]
+          twoThousandTwenty,
+        ],
+      },
+    ],
   },
   options: {
     title: {
       display: true,
-      text: 'Number of albums per decades'
-    }
-  }
+      text: 'Number of albums per decades',
+    },
+  },
 });
