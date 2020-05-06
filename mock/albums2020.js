@@ -279,4 +279,11 @@ const albums = [
     releaseYear: 1993,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/7/78/AngraAngelsCry.jpg',
   },
+  {
+    artist: 'My Chemical Romance',
+    name: 'Three Cheers for Sweet Revenge',
+    releaseYear: 2004,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Three_Cheers_for_Sweet_Revenge.jpg/220px-Three_Cheers_for_Sweet_Revenge.jpg',
+  },
 ];
