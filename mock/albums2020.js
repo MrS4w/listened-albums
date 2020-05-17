@@ -286,4 +286,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Three_Cheers_for_Sweet_Revenge.jpg/220px-Three_Cheers_for_Sweet_Revenge.jpg',
   },
+  {
+    artist: 'David Bowie',
+    name: 'The Rise and Fall of Ziggy Stardust and the Spiders from Mars',
+    releaseYear: 1972,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/0/01/ZiggyStardust.jpg/220px-ZiggyStardust.jpg',
+  },
 ];
