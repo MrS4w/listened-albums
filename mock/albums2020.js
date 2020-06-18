@@ -293,4 +293,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/0/01/ZiggyStardust.jpg/220px-ZiggyStardust.jpg',
   },
+  {
+    artist: 'Rush',
+    name: 'Permanent Waves',
+    releaseYear: 1980,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Rush_Permanent_Waves.jpg/220px-Rush_Permanent_Waves.jpg',
+  },
 ];
