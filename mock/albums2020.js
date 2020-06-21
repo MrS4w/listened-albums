@@ -300,4 +300,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Rush_Permanent_Waves.jpg/220px-Rush_Permanent_Waves.jpg',
   },
+  {
+    artist: 'Scorpions',
+    name: 'Love at First Sting',
+    releaseYear: 1984,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/51VbnUHBLmL._AC_SY355_.jpg',
+  },
 ];
