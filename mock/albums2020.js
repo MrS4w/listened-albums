@@ -307,4 +307,11 @@ const albums = [
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/51VbnUHBLmL._AC_SY355_.jpg',
   },
+  {
+    artist: 'Manowar',
+    name: 'Kings of Metal',
+    releaseYear: 1988,
+    cover:
+      'https://www.hrrshop.de/bilder/produkte/gross/MANOWAR-Kings-of-Metal-LP-GOLD.jpg',
+  },
 ];
