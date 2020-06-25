@@ -314,4 +314,11 @@ const albums = [
     cover:
       'https://www.hrrshop.de/bilder/produkte/gross/MANOWAR-Kings-of-Metal-LP-GOLD.jpg',
   },
+  {
+    artist: 'Rodox',
+    name: 'Estreito',
+    releaseYear: 2002,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/pt/f/fc/Rodox_-_Estreito_-_2002.jpg',
+  },
 ];
