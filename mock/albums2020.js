@@ -321,4 +321,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/pt/f/fc/Rodox_-_Estreito_-_2002.jpg',
   },
+  {
+    artist: 'AC/DC',
+    name: 'Back In Black',
+    releaseYear: 1980,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png',
+  },
 ];
