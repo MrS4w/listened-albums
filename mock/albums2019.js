@@ -357,7 +357,7 @@ const albums = [
     name: 'Love Gun',
     releaseYear: 1977,
     cover:
-      'https://upload.wikimedia.org/wikipedia/pt/thumb/5/58/Kiss_love_gun.jpg/220px-Kiss_love_gun.jpg',
+      'https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Love_gun_cover.jpg/220px-Love_gun_cover.jpg',
   },
   {
     artist: 'David Bowie',
