@@ -167,8 +167,7 @@ const albums = [
     artist: 'Pearl Jam',
     name: 'Ten',
     releaseYear: 1991,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Ten_Pearl_Jam.jpg/220px-Ten_Pearl_Jam.jpg',
+    cover: 'https://images-na.ssl-images-amazon.com/images/I/61-PXKEROvL.jpg',
   },
   {
     artist: 'Black Sabbath',
@@ -327,5 +326,11 @@ const albums = [
     releaseYear: 1980,
     cover:
       'https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png',
+  },
+  {
+    artist: 'Heaven & Hell',
+    name: 'The Devil You Know',
+    releaseYear: 2009,
+    cover: 'https://e.snmc.io/i/600/w/1447e4263b3e5e3634ad93e2178cbcde/2602356',
   },
 ];
