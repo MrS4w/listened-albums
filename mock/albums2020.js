@@ -249,8 +249,7 @@ const albums = [
     artist: 'Radiohead',
     name: 'In Rainbows',
     releaseYear: 2007,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/In_Rainbows_Official_Cover.jpg/220px-In_Rainbows_Official_Cover.jpg',
+    cover: 'https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png',
   },
   {
     artist: 'Raimundos',
@@ -332,5 +331,17 @@ const albums = [
     name: 'The Devil You Know',
     releaseYear: 2009,
     cover: 'https://e.snmc.io/i/600/w/1447e4263b3e5e3634ad93e2178cbcde/2602356',
+  },
+  {
+    artist: 'Raul Seixas, Marcelo Nova',
+    name: 'A Panela do Diabo',
+    releaseYear: 1989,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/6/68/PanelaDiabo.jpg',
+  },
+  {
+    artist: 'Slayer',
+    name: 'South of Heaven',
+    releaseYear: 1988,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/5/5e/Southofheaven.jpg',
   },
 ];

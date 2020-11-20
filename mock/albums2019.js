@@ -250,7 +250,7 @@ const albums = [
     name: 'OK Computer',
     releaseYear: 1997,
     cover:
-      'https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Radiohead.okcomputer.albumart.jpg/220px-Radiohead.okcomputer.albumart.jpg',
+      'https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png',
   },
   {
     artist: 'Black Sabbath',
