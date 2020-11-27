@@ -344,4 +344,11 @@ const albums = [
     releaseYear: 1988,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/5/5e/Southofheaven.jpg',
   },
+  {
+    artist: 'Sepultura',
+    name: 'Beneath the Remains',
+    releaseYear: 1989,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sepultura_-_Beneath_the_Remains.jpg/220px-Sepultura_-_Beneath_the_Remains.jpg',
+  },
 ];
