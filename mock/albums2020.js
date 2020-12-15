@@ -351,4 +351,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sepultura_-_Beneath_the_Remains.jpg/220px-Sepultura_-_Beneath_the_Remains.jpg',
   },
+  {
+    artist: 'Manowar',
+    name: 'Fighting the World',
+    releaseYear: 1987,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/2/23/ManowarFightingtheworld.jpg',
+  },
 ];
