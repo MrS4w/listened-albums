@@ -358,4 +358,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/2/23/ManowarFightingtheworld.jpg',
   },
+  {
+    artist: 'Van Halen',
+    name: '5150',
+    releaseYear: 1986,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/1/12/VanHalen_5150_fcover.jpg',
+  },
 ];
