@@ -365,4 +365,24 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/1/12/VanHalen_5150_fcover.jpg',
   },
+  {
+    artist: 'Rick James',
+    name: 'Cold Blooded',
+    releaseYear: 1983,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/5/55/Rick_James_-_Cold_Blooded.jpg',
+  },
+  {
+    artist: 'Van Halen',
+    name: 'Van Halen',
+    releaseYear: 1978,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg',
+  },
+  {
+    artist: 'Van Halen',
+    name: '1984',
+    releaseYear: 1984,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/5/5f/Van_Halen_-_1984.jpg',
+  },
 ];
