@@ -385,4 +385,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/5/5f/Van_Halen_-_1984.jpg',
   },
+  {
+    artist: 'Queen',
+    name: 'The Works',
+    releaseYear: 1984,
+    cover: 'https://upload.wikimedia.org/wikipedia/en/3/39/Queen_The_Works.png',
+  },
 ];
