@@ -13,4 +13,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/5/57/BlueOysterCultAgentsofFortune.jpg',
   },
+  {
+    artist: 'Steve Miller Band',
+    name: 'The Joker',
+    releaseYear: 1973,
+    cover:
+      'https://images-na.ssl-images-amazon.com/images/I/71-AX6oUE5L._SL1200_.jpg',
+  },
 ];
