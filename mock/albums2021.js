@@ -20,4 +20,11 @@ const albums = [
     cover:
       'https://images-na.ssl-images-amazon.com/images/I/71-AX6oUE5L._SL1200_.jpg',
   },
+  {
+    artist: 'Rainbow',
+    name: 'Down to Earth',
+    releaseYear: 1979,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/6/6c/Down_to_Earth_%28Rainbow_album%29_coverart.jpg',
+  },
 ];
