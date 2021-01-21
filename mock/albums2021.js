@@ -27,4 +27,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/6/6c/Down_to_Earth_%28Rainbow_album%29_coverart.jpg',
   },
+  {
+    artist: 'Metallica',
+    name: 'Metallica',
+    releaseYear: 1991,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg',
+  },
 ];
