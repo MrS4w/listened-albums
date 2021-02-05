@@ -34,4 +34,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg',
   },
+  {
+    artist: 'The Runaways',
+    name: 'The Runaways',
+    releaseYear: 1976,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/c/ca/Therunaways.jpg',
+  },
 ];
