@@ -40,4 +40,11 @@ const albums = [
     releaseYear: 1976,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/c/ca/Therunaways.jpg',
   },
+  {
+    artist: 'Quiet Riot',
+    name: 'Metal Health',
+    releaseYear: 1983,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/7/7a/MetalHealthQuietRiot.jpg',
+  },
 ];
