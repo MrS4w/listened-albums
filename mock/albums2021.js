@@ -47,4 +47,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/7/7a/MetalHealthQuietRiot.jpg',
   },
+  {
+    artist: 'Misfits',
+    name: 'Walk Among Us',
+    releaseYear: 1982,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/f/f6/Misfits_-_Walk_Among_Us_%28pink_cover%29.jpg',
+  },
 ];
