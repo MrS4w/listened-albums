@@ -54,4 +54,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/f/f6/Misfits_-_Walk_Among_Us_%28pink_cover%29.jpg',
   },
+  {
+    artist: 'Tears for Fears',
+    name: 'Songs from the Big Chair',
+    releaseYear: 1985,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/f/f5/Tears_for_Fears_Songs_from_the_Big_Chair.jpg',
+  },
 ];
