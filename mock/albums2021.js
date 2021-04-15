@@ -61,4 +61,11 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/f/f5/Tears_for_Fears_Songs_from_the_Big_Chair.jpg',
   },
+  {
+    artist: 'Arctic Monkeys',
+    name: 'AM',
+    releaseYear: 2013,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/commons/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg',
+  },
 ];
