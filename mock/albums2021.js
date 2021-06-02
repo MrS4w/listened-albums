@@ -75,4 +75,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/5/52/Twenty_One_Pilots_-_Scaled_and_Icy.png',
   },
+  {
+    artist: 'Raul Seixas',
+    name: 'Mata Virgem',
+    releaseYear: 1978,
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/f/fc/Mata_virgem.jpg',
+  },
 ];
