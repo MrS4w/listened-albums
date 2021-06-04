@@ -81,4 +81,11 @@ const albums = [
     releaseYear: 1978,
     cover: 'https://upload.wikimedia.org/wikipedia/pt/f/fc/Mata_virgem.jpg',
   },
+  {
+    artist: 'Poison',
+    name: 'Open Up and Say... Ahh!',
+    releaseYear: 1988,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Open_Up_and_Say_Ahh_Cover.jpg/220px-Open_Up_and_Say_Ahh_Cover.jpg',
+  },
 ];
