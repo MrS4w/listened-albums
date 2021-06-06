@@ -88,4 +88,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Open_Up_and_Say_Ahh_Cover.jpg/220px-Open_Up_and_Say_Ahh_Cover.jpg',
   },
+  {
+    artist: 'Jimmy & Rats',
+    name: 'Só Há Um Caminho a Seguir',
+    releaseYear: 2021,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2734b53c903e1f13d1475e62424',
+  },
 ];
