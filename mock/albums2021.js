@@ -94,4 +94,10 @@ const albums = [
     releaseYear: 2021,
     cover: 'https://i.scdn.co/image/ab67616d0000b2734b53c903e1f13d1475e62424',
   },
+  {
+    artist: 'The Offspring',
+    name: 'Americana',
+    releaseYear: 1998,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52',
+  },
 ];
