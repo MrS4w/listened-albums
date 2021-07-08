@@ -222,7 +222,7 @@ const albums = [
     artist: 'Ozzy Osbourne',
     name: 'No More Tears',
     releaseYear: 1991,
-    cover: 'https://i.ebayimg.com/images/g/OncAAOSwJstasr3K/s-l400.jpg',
+    cover: 'https://upload.wikimedia.org/wikipedia/pt/5/52/NoMoreTears.jpg',
   },
   {
     artist: 'Iron Maiden',
@@ -316,8 +316,7 @@ const albums = [
     artist: 'Rodox',
     name: 'Estreito',
     releaseYear: 2002,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/pt/f/fc/Rodox_-_Estreito_-_2002.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b273bfea619bc3e1b47645f51ac8',
   },
   {
     artist: 'AC/DC',

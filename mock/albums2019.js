@@ -158,8 +158,7 @@ const albums = [
   },
   {
     artist: 'Matanza Inc',
-    name:
-      'Crônicas do Post Mortem: Um Guia Para Demônios e Espíritos Obsessores',
+    name: 'Crônicas do Post Mortem: Um Guia Para Demônios e Espíritos Obsessores',
     releaseYear: 2019,
     cover:
       'http://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/05/matanza-inc-cronicas-post-mortem-capa.jpg',
@@ -168,8 +167,7 @@ const albums = [
     artist: 'Raimundos, Ultraje a Rigor',
     name: 'Ultraje a Rigor X Raimundos',
     releaseYear: 2012,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/pt/3/3b/Ultrajearigorvsraimundos.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b2734858ac02ce3a5b7386c55099',
   },
   {
     artist: 'Iron Maiden',
@@ -195,8 +193,7 @@ const albums = [
     artist: 'Raimundos',
     name: 'Éramos 4',
     releaseYear: 2001,
-    cover:
-      'https://upload.wikimedia.org/wikipedia/pt/e/e8/Raimundos_-_%C3%89ramos_4_-_2001.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b273a22d7b19db5f269de7f259f5',
   },
   {
     artist: 'Misfits',
