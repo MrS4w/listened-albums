@@ -100,4 +100,10 @@ const albums = [
     releaseYear: 1998,
     cover: 'https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52',
   },
+  {
+    artist: 'Powerwolf',
+    name: 'Blood of the Saints',
+    releaseYear: 2011,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27346c550081a2f5674e2cf608d',
+  },
 ];
