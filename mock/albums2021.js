@@ -106,4 +106,11 @@ const albums = [
     releaseYear: 2011,
     cover: 'https://i.scdn.co/image/ab67616d0000b27346c550081a2f5674e2cf608d',
   },
+  {
+    artist: 'Ramones',
+    name: 'Mondo Bizarro',
+    releaseYear: 1992,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/7/7a/Ramones_-_Mondo_Bizarro_cover.jpg',
+  },
 ];
