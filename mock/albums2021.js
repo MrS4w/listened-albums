@@ -113,4 +113,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/7/7a/Ramones_-_Mondo_Bizarro_cover.jpg',
   },
+  {
+    artist: 'Ramones',
+    name: 'Leave Home',
+    releaseYear: 1977,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27321a319f11c8d0f0adf68cf0f',
+  },
 ];
