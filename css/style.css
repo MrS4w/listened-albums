@@ -42,3 +42,9 @@ footer {
     height: 175px;
   }
 }
+
+.tweet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
