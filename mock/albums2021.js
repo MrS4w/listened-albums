@@ -119,4 +119,10 @@ const albums = [
     releaseYear: 1977,
     cover: 'https://i.scdn.co/image/ab67616d0000b27321a319f11c8d0f0adf68cf0f',
   },
+  {
+    artist: 'Ramones',
+    name: 'Road to Ruin',
+    releaseYear: 1978,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27311b0bfb72dc829e1d38d1cff',
+  },
 ];
