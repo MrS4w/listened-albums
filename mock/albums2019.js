@@ -140,7 +140,7 @@ const albums = [
     artist: 'Inocentes',
     name: 'Pânico em SP',
     releaseYear: 1986,
-    cover: 'http://www.museudocd.com.br/produtos/prod23599.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b2735c4e54fff31fd1d5b627de05',
   },
   {
     artist: 'Ramones',
