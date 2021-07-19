@@ -125,4 +125,10 @@ const albums = [
     releaseYear: 1978,
     cover: 'https://i.scdn.co/image/ab67616d0000b27311b0bfb72dc829e1d38d1cff',
   },
+  {
+    artist: 'David Bowie',
+    name: 'Diamond Dogs',
+    releaseYear: 1974,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2737811e5ef1dae112b6fcec90d',
+  },
 ];
