@@ -131,4 +131,10 @@ const albums = [
     releaseYear: 1974,
     cover: 'https://i.scdn.co/image/ab67616d0000b2737811e5ef1dae112b6fcec90d',
   },
+  {
+    artist: 'Mastodon',
+    name: 'Leviathan',
+    releaseYear: 2004,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd',
+  },
 ];
