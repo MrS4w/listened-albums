@@ -144,4 +144,10 @@ const albums = [
     cover:
       'https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Rush_self_titled.jpg/220px-Rush_self_titled.jpg',
   },
+  {
+    artist: 'Rush',
+    name: '2112',
+    releaseYear: 1976,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273ae89fb5c4c8d65809e0c8ed4',
+  },
 ];
