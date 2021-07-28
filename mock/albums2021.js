@@ -137,4 +137,11 @@ const albums = [
     releaseYear: 2004,
     cover: 'https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd',
   },
+  {
+    artist: 'Rush',
+    name: 'Rush',
+    releaseYear: 1974,
+    cover:
+      'https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Rush_self_titled.jpg/220px-Rush_self_titled.jpg',
+  },
 ];
