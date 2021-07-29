@@ -150,4 +150,10 @@ const albums = [
     releaseYear: 1976,
     cover: 'https://i.scdn.co/image/ab67616d0000b273ae89fb5c4c8d65809e0c8ed4',
   },
+  {
+    artist: 'Rush',
+    name: 'Caress of Steel',
+    releaseYear: 1975,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27330478f0e3efc3a552901398d',
+  },
 ];
