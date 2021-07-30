@@ -156,4 +156,10 @@ const albums = [
     releaseYear: 1975,
     cover: 'https://i.scdn.co/image/ab67616d0000b27330478f0e3efc3a552901398d',
   },
+  {
+    artist: 'Whitesnake',
+    name: 'Whitesnake',
+    releaseYear: 1987,
+    cover: 'https://upload.wikimedia.org/wikipedia/ru/6/6b/Whitesnake_1987.jpg',
+  },
 ];
