@@ -162,4 +162,10 @@ const albums = [
     releaseYear: 1987,
     cover: 'https://upload.wikimedia.org/wikipedia/ru/6/6b/Whitesnake_1987.jpg',
   },
+  {
+    artist: 'Rush',
+    name: 'A Farewell to Kings',
+    releaseYear: 1977,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273c3d872d5405c76e3956cbbb6',
+  },
 ];
