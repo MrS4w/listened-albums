@@ -168,4 +168,10 @@ const albums = [
     releaseYear: 1977,
     cover: 'https://i.scdn.co/image/ab67616d0000b273c3d872d5405c76e3956cbbb6',
   },
+  {
+    artist: 'Alice Cooper',
+    name: 'Love It to Death',
+    releaseYear: 1971,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273a686891e44bcadacb68ee3de',
+  },
 ];
