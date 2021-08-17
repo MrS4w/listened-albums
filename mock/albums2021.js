@@ -174,4 +174,10 @@ const albums = [
     releaseYear: 1971,
     cover: 'https://i.scdn.co/image/ab67616d0000b273a686891e44bcadacb68ee3de',
   },
+  {
+    artist: 'Mr. Bungle',
+    name: 'California',
+    releaseYear: 1999,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273c383eff4368b19f5f05b3108',
+  },
 ];
