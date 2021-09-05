@@ -180,4 +180,10 @@ const albums = [
     releaseYear: 1999,
     cover: 'https://i.scdn.co/image/ab67616d0000b273c383eff4368b19f5f05b3108',
   },
+  {
+    artist: 'Steelheart',
+    name: 'Steelheart',
+    releaseYear: 1991,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2737c6dfb00590682bc754cb0ca',
+  },
 ];
