@@ -186,4 +186,10 @@ const albums = [
     releaseYear: 1991,
     cover: 'https://i.scdn.co/image/ab67616d0000b2737c6dfb00590682bc754cb0ca',
   },
+  {
+    artist: 'Nirvana',
+    name: 'Nevermind',
+    releaseYear: 1991,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273fdf71af87c2a4f3cbed53d65',
+  },
 ];
