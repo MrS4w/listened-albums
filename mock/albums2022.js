@@ -1,1 +1,8 @@
-const albums = [];
+const albums = [
+  {
+    artist: 'Rod Stewart',
+    name: 'Atlantic Crossing',
+    releaseYear: 1975,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2739199bdfc160aa8d63a57040a',
+  },
+];
