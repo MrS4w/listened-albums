@@ -17,4 +17,10 @@ const albums = [
     releaseYear: 1983,
     cover: 'https://i.scdn.co/image/ab67616d0000b273ba323a5636c60a606a263a5e',
   },
+  {
+    artist: 'Bathory',
+    name: 'Bathory',
+    releaseYear: 1984,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27338a32a9e00faa7890078388d'
+  },
 ];
