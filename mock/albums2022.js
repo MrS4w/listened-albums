@@ -21,6 +21,12 @@ const albums = [
     artist: 'Bathory',
     name: 'Bathory',
     releaseYear: 1984,
-    cover: 'https://i.scdn.co/image/ab67616d0000b27338a32a9e00faa7890078388d'
+    cover: 'https://i.scdn.co/image/ab67616d0000b27338a32a9e00faa7890078388d',
+  },
+  {
+    artist: 'KISS',
+    name: 'Hotter Than Hell',
+    releaseYear: 1974,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2735c53e7b41642c827644b5313',
   },
 ];
