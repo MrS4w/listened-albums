@@ -29,4 +29,10 @@ const albums = [
     releaseYear: 1974,
     cover: 'https://i.scdn.co/image/ab67616d0000b2735c53e7b41642c827644b5313',
   },
+  {
+    artist: 'Doyle',
+    name: 'Abominator',
+    releaseYear: 2013,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273e78dd3f7f15c38a5247505d0',
+  },
 ];
