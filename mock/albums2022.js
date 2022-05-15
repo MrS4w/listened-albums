@@ -35,4 +35,10 @@ const albums = [
     releaseYear: 2013,
     cover: 'https://i.scdn.co/image/ab67616d0000b273e78dd3f7f15c38a5247505d0',
   },
+  {
+    artist: 'KISS',
+    name: 'Rock and Roll Over',
+    releaseYear: 1976,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273436f98236fc318c438325d32',
+  },
 ];
