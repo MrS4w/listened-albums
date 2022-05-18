@@ -41,4 +41,10 @@ const albums = [
     releaseYear: 1976,
     cover: 'https://i.scdn.co/image/ab67616d0000b273436f98236fc318c438325d32',
   },
+  {
+    artist: 'Scorpions',
+    name: 'Lovedrive',
+    releaseYear: 1979,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273c9703979ebcc156cebd0e2c4',
+  },
 ];
