@@ -47,4 +47,10 @@ const albums = [
     releaseYear: 1979,
     cover: 'https://i.scdn.co/image/ab67616d0000b273c9703979ebcc156cebd0e2c4',
   },
+  {
+    artist: 'Elvis Presley',
+    name: 'Elvis Presley',
+    releaseYear: 1956,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872',
+  },
 ];
