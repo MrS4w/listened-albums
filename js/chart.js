@@ -5,6 +5,7 @@ function getAlbumsQuantityByYear(firstYear, lastYear) {
   return albumsQuantity;
 }
 
+const fifty = getAlbumsQuantityByYear(1950, 1959);
 const sixty = getAlbumsQuantityByYear(1960, 1969);
 const seventy = getAlbumsQuantityByYear(1970, 1979);
 const eighty = getAlbumsQuantityByYear(1980, 1989);
@@ -19,6 +20,12 @@ function getData() {
   let dataArray = [];
   let colorsArray = [];
   let labelsArray = [];
+
+  if (fifty) {
+    labelsArray.push("50's");
+    colorsArray.push('#000');
+    dataArray.push(fifty);
+  }
 
   if (sixty) {
     labelsArray.push("60's");
