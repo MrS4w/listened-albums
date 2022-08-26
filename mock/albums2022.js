@@ -53,4 +53,10 @@ const albums = [
     releaseYear: 1956,
     cover: 'https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872',
   },
+  {
+    artist: 'Iron Maiden',
+    name: 'Killers',
+    releaseYear: 1981,
+    cover: 'https://i.scdn.co/image/ab67616d00001e02450ea0598665b1fb85c472d0',
+  },
 ];
