@@ -59,4 +59,10 @@ const albums = [
     releaseYear: 1981,
     cover: 'https://i.scdn.co/image/ab67616d00001e02450ea0598665b1fb85c472d0',
   },
+  {
+    artist: 'Iron Maiden',
+    name: 'Piece of Mind',
+    releaseYear: 1983,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2732277d1a849a63c7075ec38ff',
+  },
 ];
