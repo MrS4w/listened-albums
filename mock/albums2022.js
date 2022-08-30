@@ -65,4 +65,10 @@ const albums = [
     releaseYear: 1983,
     cover: 'https://i.scdn.co/image/ab67616d0000b2732277d1a849a63c7075ec38ff',
   },
+  {
+    artist: 'Iron Maiden',
+    name: 'Fear of the Dark',
+    releaseYear: 1992,
+    cover: 'https://i.scdn.co/image/ab67616d00001e020dda9c11454b9053d07f585a',
+  },
 ];
