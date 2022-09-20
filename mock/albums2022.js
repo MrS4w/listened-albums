@@ -71,4 +71,10 @@ const albums = [
     releaseYear: 1992,
     cover: 'https://i.scdn.co/image/ab67616d00001e020dda9c11454b9053d07f585a',
   },
+  {
+    artist: 'Ghost',
+    name: 'Opus Eponymous',
+    releaseYear: 2010,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273fae4c3e322d94845c13e2d2c',
+  },
 ];
