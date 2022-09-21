@@ -44,8 +44,7 @@ const albums = [
     artist: 'Judas Priest',
     name: 'British Steel',
     releaseYear: 1980,
-    cover:
-      'https://www.yurisrecords.com/wp-content/uploads/2017/01/judas-priest-british-steel.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b273be0e5ebab8c61469b1ff9f62',
   },
   {
     artist: 'Ratt',
@@ -215,8 +214,7 @@ const albums = [
     artist: 'Ozzy Osbourne',
     name: 'Ordinary Man',
     releaseYear: 2020,
-    cover:
-      'https://whiplash.net/imagens_promo/ozzyosbourne_capa_ordinaryman.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b273048dd3ae0e24cf27db6ca17d',
   },
   {
     artist: 'Ozzy Osbourne',
