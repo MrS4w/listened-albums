@@ -77,4 +77,10 @@ const albums = [
     releaseYear: 2010,
     cover: 'https://i.scdn.co/image/ab67616d0000b273fae4c3e322d94845c13e2d2c',
   },
+  {
+    artist: 'KISS',
+    name: 'Creatures of the Night',
+    releaseYear: 1982,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273f1e929bb0d493490a6549cdd',
+  },
 ];
