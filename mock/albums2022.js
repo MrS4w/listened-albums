@@ -83,4 +83,10 @@ const albums = [
     releaseYear: 1982,
     cover: 'https://i.scdn.co/image/ab67616d0000b273f1e929bb0d493490a6549cdd',
   },
+  {
+    artist: 'Dire Straits',
+    name: 'Brothers in Arms',
+    releaseYear: 1985,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273995239a0e35a898037ec4b29',
+  },
 ];
