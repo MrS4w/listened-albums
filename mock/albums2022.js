@@ -89,4 +89,10 @@ const albums = [
     releaseYear: 1985,
     cover: 'https://i.scdn.co/image/ab67616d0000b273995239a0e35a898037ec4b29',
   },
+  {
+    artist: 'Zumbis do Espaço',
+    name: 'Nós Viemos em Paz',
+    releaseYear: 2012,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2730bda314d259944b6cda25c58',
+  },
 ];
