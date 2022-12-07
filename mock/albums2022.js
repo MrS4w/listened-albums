@@ -95,4 +95,10 @@ const albums = [
     releaseYear: 2012,
     cover: 'https://i.scdn.co/image/ab67616d0000b2730bda314d259944b6cda25c58',
   },
+  {
+    artist: 'Misfits',
+    name: 'Earth A.D.',
+    releaseYear: 1983,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273f52e94692944d40e7faf3c81',
+  },
 ];
