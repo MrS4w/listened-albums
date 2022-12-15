@@ -101,4 +101,10 @@ const albums = [
     releaseYear: 1983,
     cover: 'https://i.scdn.co/image/ab67616d0000b273f52e94692944d40e7faf3c81',
   },
+  {
+    artist: 'Maroon 5',
+    name: 'Songs About Jane',
+    releaseYear: 2002,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537',
+  },
 ];
