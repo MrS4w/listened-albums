@@ -107,4 +107,10 @@ const albums = [
     releaseYear: 2002,
     cover: 'https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537',
   },
+  {
+    artist: 'Slayer',
+    name: 'Show No Mercy',
+    releaseYear: 1983,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27365ea0d92f6cbe691d7a445bc',
+  },
 ];
