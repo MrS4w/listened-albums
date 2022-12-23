@@ -116,7 +116,7 @@ const albums = [
   {
     artist: 'Death',
     name: 'Scream Bloody Gore',
-    releaseYear: 1983,
+    releaseYear: 1987,
     cover: 'https://i.scdn.co/image/ab67616d0000b2731a777d64261a574192311760',
   },
 ];
