@@ -52,5 +52,11 @@ const albums = [
     name: 'Renato Russo',
     releaseYear: 1995,
     cover: 'https://i.scdn.co/image/ab67616d0000b2735a7c8c5b9b520b6c115fbab9', 
+  },
+  {
+    artist: 'Ventura',
+    name: 'Los Hermanos',
+    releaseYear: 2003,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273376d029f01458b3e714603b1', 
   }
 ];
