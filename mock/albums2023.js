@@ -54,8 +54,8 @@ const albums = [
     cover: 'https://i.scdn.co/image/ab67616d0000b2735a7c8c5b9b520b6c115fbab9', 
   },
   {
-    artist: 'Ventura',
-    name: 'Los Hermanos',
+    artist: 'Los Hermanos',
+    name: 'Ventura',
     releaseYear: 2003,
     cover: 'https://i.scdn.co/image/ab67616d0000b273376d029f01458b3e714603b1', 
   }
