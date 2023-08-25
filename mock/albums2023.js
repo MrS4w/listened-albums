@@ -48,8 +48,8 @@ const albums = [
     cover: 'https://i.scdn.co/image/ab67616d0000b2739777ab5b0c73b096f4bb532f',
   },
   {
-    artist: 'Equilíbrio Distante',
-    name: 'Renato Russo',
+    artist: 'Renato Russo',
+    name: 'Equilíbrio Distante',
     releaseYear: 1995,
     cover: 'https://i.scdn.co/image/ab67616d0000b2735a7c8c5b9b520b6c115fbab9', 
   },
