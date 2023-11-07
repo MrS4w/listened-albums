@@ -58,5 +58,11 @@ const albums = [
     name: 'Ventura',
     releaseYear: 2003,
     cover: 'https://i.scdn.co/image/ab67616d0000b273376d029f01458b3e714603b1', 
+  },
+  {
+    artist: 'Pink Floyd',
+    name: 'The Dark Side of the Moon',
+    releaseYear: 1973,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe', 
   }
 ];
