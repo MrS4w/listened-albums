@@ -70,5 +70,11 @@ const albums = [
     name: 'Raul Seixas',
     releaseYear: 1983,
     cover: 'https://i.scdn.co/image/ab67616d0000b2739441654e664a54d5e849a6fa', 
+  },
+  {
+    artist: 'Five Finger Death Punch',
+    name: 'Got Your Six',
+    releaseYear: 2015,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2734804f1513736e5e2b3e053dc', 
   }
 ];
