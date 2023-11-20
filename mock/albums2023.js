@@ -76,5 +76,11 @@ const albums = [
     name: 'Got Your Six',
     releaseYear: 2015,
     cover: 'https://i.scdn.co/image/ab67616d0000b2734804f1513736e5e2b3e053dc', 
+  },
+  {
+    artist: 'Aviram',
+    name: "All My Love's In Vain",
+    releaseYear: 2023,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2732558b04d323a7cc3928dc51e', 
   }
 ];
