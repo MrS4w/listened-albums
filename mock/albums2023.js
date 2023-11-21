@@ -82,5 +82,11 @@ const albums = [
     name: "All My Love's In Vain",
     releaseYear: 2023,
     cover: 'https://i.scdn.co/image/ab67616d0000b2732558b04d323a7cc3928dc51e', 
+  },
+  {
+    artist: 'Avicii',
+    name: 'True',
+    releaseYear: 2013,
+    cover: 'https://i.scdn.co/image/ab67616d00001e02c3760c26cc5374ddbd9fd530', 
   }
 ];
