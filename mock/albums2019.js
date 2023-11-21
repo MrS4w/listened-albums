@@ -32,13 +32,13 @@ const albums = [
     name: 'Acústico (Ao Vivo)',
     releaseYear: 2003,
     cover:
-      'https://http2.mlstatic.com/cd-charlie-brown-jr-acustico-mtv-D_NQ_NP_482401-MLB20316078302_062015-F.jpg',
+      'https://i.scdn.co/image/ab67616d0000b27318d6f80313da2f8d1c727d45',
   },
   {
     artist: 'Barns Courtney',
     name: 'The Attractions Of Youth',
     releaseYear: 2017,
-    cover: 'https://e.snmc.io/i/300/w/451877f821fe772b57bcb035dec6bc54/6687174',
+    cover: 'https://i.scdn.co/image/ab67616d0000b2732a9e5743f2d7c93c43fee849',
   },
   {
     artist: 'Panic! at the Disco',
@@ -93,7 +93,7 @@ const albums = [
     name: 'Santa Madre Cassino',
     releaseYear: 2006,
     cover:
-      'https://armazemdovinil.com/wp-content/uploads/2014/11/LP-Matanza-Santa-Madre-Cassino-510x510.jpg',
+      'https://i.scdn.co/image/ab67616d0000b273d9cbd37bbb784dc49af0faec',
   },
   {
     artist: 'Legião Urbana',
@@ -147,7 +147,7 @@ const albums = [
     name: 'Brain Drain',
     releaseYear: 1989,
     cover:
-      'https://http2.mlstatic.com/cd-ramones-brain-drain-D_NQ_NP_936315-MLB27785263749_072018-F.jpg',
+      'https://i.scdn.co/image/ab67616d0000b2736b2e26f5a2c40835f8f0b77b',
   },
   {
     artist: 'Panic! at the Disco',
@@ -181,7 +181,7 @@ const albums = [
     name: 'The Number Of The Beast',
     releaseYear: 1982,
     cover:
-      'https://http2.mlstatic.com/iron-maiden-the-number-of-the-beast-D_NQ_NP_666772-MLB26992170434_032018-F.jpg',
+      'https://i.scdn.co/image/ab67616d0000b273f63f421ee3bcc38b9f4e5965',
   },
   {
     artist: 'Europe',
