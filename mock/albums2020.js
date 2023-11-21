@@ -227,7 +227,7 @@ const albums = [
     name: 'Iron Maiden',
     releaseYear: 1980,
     cover:
-      'https://static.fnac-static.com/multimedia/Images/FR/NR/99/56/5f/6248089/1540-1/tsp20140827103036/Iron-Maiden.jpg',
+      'https://i.scdn.co/image/ab67616d0000b2730f3012931378981b060e4c41',
   },
   {
     artist: 'Pantera',
@@ -327,7 +327,7 @@ const albums = [
     artist: 'Heaven & Hell',
     name: 'The Devil You Know',
     releaseYear: 2009,
-    cover: 'https://e.snmc.io/i/600/w/1447e4263b3e5e3634ad93e2178cbcde/2602356',
+    cover: 'https://i.scdn.co/image/ab67616d0000b273f924921a155d20c7bc630ff1',
   },
   {
     artist: 'Raul Seixas, Marcelo Nova',
