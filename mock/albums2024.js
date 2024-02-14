@@ -17,4 +17,10 @@ const albums = [
     releaseYear: 1991,
     cover: 'https://i.scdn.co/image/ab67616d0000b273da85dd2a59ffff7a6817b720',
   },
+  {
+    artist: 'Exodus',
+    name: 'Bonded by Blood',
+    releaseYear: 1985,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2735d958268f9f9dcb4eb1fbcb1',
+  },
 ];
