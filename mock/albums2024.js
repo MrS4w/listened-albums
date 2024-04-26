@@ -23,4 +23,10 @@ const albums = [
     releaseYear: 1985,
     cover: 'https://i.scdn.co/image/ab67616d0000b2735d958268f9f9dcb4eb1fbcb1',
   },
+  {
+    artist: 'Raul Seixas',
+    name: 'Abre-te Sésamo',
+    releaseYear: 1980,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273d4e14208014eec4a8d658c70',
+  },
 ];
