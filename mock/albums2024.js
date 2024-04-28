@@ -29,4 +29,10 @@ const albums = [
     releaseYear: 1980,
     cover: 'https://i.scdn.co/image/ab67616d0000b273d4e14208014eec4a8d658c70',
   },
+  {
+    artist: 'The Human League',
+    name: 'Dare!',
+    releaseYear: 1981,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074',
+  },
 ];
