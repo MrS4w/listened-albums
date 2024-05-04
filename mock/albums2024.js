@@ -35,4 +35,10 @@ const albums = [
     releaseYear: 1981,
     cover: 'https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074',
   },
+  {
+    artist: 'Avenged Sevenfold',
+    name: 'Life Is But a Dream…',
+    releaseYear: 2023,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273970d658487e503abf6c03ab1',
+  },
 ];
