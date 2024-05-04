@@ -220,7 +220,7 @@ const albums = [
     artist: 'Mötley Crüe',
     name: 'Too Fast For Love',
     releaseYear: 1981,
-    cover: 'http://roadie-metal.com/wp-content/uploads/2018/11/CD17574.jpg',
+    cover: 'https://i.scdn.co/image/ab67616d0000b2735d62d56711696ca1fb4754fc',
   },
   {
     artist: 'Metallica',
@@ -361,7 +361,7 @@ const albums = [
     name: 'Aladdin Sane',
     releaseYear: 1973,
     cover:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIcHWfdzM7I_9rXAx9Kdv3SFqTXS9ScKR4cMSXgolVHA3QHD3l',
+      'https://i.scdn.co/image/ab67616d0000b273a41468034fc8bff53dff8a37',
   },
   {
     artist: 'David Bowie',
