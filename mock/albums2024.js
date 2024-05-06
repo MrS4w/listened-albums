@@ -41,4 +41,16 @@ const albums = [
     releaseYear: 2023,
     cover: 'https://i.scdn.co/image/ab67616d0000b273970d658487e503abf6c03ab1',
   },
+  {
+    artist: 'Raul Seixas',
+    name: 'Gita',
+    releaseYear: 1974,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2736549139624a52222827290dd',
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Raul Rock Seixas',
+    releaseYear: 1977,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273108cdacfa37f3cb365a69725',
+  },
 ];
