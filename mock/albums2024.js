@@ -53,4 +53,16 @@ const albums = [
     releaseYear: 1977,
     cover: 'https://i.scdn.co/image/ab67616d0000b273108cdacfa37f3cb365a69725',
   },
+  {
+    artist: 'Raul Seixas',
+    name: 'O Dia em que a Terra Parou',
+    releaseYear: 1977,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273ab624e0044dd2580b7bd4556',
+  },
+{
+    artist: 'Raul Seixas',
+    name: 'Por Quem os Sinos Dobram',
+    releaseYear: 1979,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2730d6640060d49b1a3499557de',
+  },
 ];
