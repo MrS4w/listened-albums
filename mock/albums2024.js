@@ -59,10 +59,22 @@ const albums = [
     releaseYear: 1977,
     cover: 'https://i.scdn.co/image/ab67616d0000b273ab624e0044dd2580b7bd4556',
   },
-{
+  {
     artist: 'Raul Seixas',
     name: 'Por Quem os Sinos Dobram',
     releaseYear: 1979,
     cover: 'https://i.scdn.co/image/ab67616d0000b2730d6640060d49b1a3499557de',
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Metrô Linha 743',
+    releaseYear: 1984,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27366c0c3008cbc8f512eea139e',
+  },
+  {
+    artist: 'Raul Seixas',
+    name: 'Uah-Bap-Lu-Bap-Lah-Béin-Bum!',
+    releaseYear: 1987,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2738ea0dfe90d5ce77b44a38216',
   },
 ];
