@@ -77,4 +77,10 @@ const albums = [
     releaseYear: 1987,
     cover: 'https://i.scdn.co/image/ab67616d0000b2738ea0dfe90d5ce77b44a38216',
   },
+  {
+    artist: 'Raul Seixas',
+    name: 'A Pedra do Gênesis',
+    releaseYear: 1988,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273db6aa2ea77ec5908af0a2cdd',
+  },
 ];
