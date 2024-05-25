@@ -83,4 +83,10 @@ const albums = [
     releaseYear: 1988,
     cover: 'https://i.scdn.co/image/ab67616d0000b273db6aa2ea77ec5908af0a2cdd',
   },
+  {
+    artist: 'twenty one pilots',
+    name: 'Clancy',
+    releaseYear: 2024,
+    cover: 'https://i.scdn.co/image/ab67616d0000b2739cf15c7323fb85b7112197d5',
+  },
 ];
