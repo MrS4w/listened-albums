@@ -89,4 +89,10 @@ const albums = [
     releaseYear: 2024,
     cover: 'https://i.scdn.co/image/ab67616d0000b2739cf15c7323fb85b7112197d5',
   },
+  {
+    artist: 'Fleetwood Mac',
+    name: 'Rumours',
+    releaseYear: 1977,
+    cover: 'https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7',
+  },
 ];
