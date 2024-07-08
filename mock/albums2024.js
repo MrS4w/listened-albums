@@ -95,4 +95,10 @@ const albums = [
     releaseYear: 1977,
     cover: 'https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7',
   },
+  {
+    artist: 'Aviram',
+    name: 'You Are What You Do',
+    releaseYear: 2024,
+    cover: 'https://i.scdn.co/image/ab67616d00001e0275a241f4941701bf35e2e98c',
+  },
 ];
