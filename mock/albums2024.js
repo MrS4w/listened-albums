@@ -101,4 +101,10 @@ const albums = [
     releaseYear: 2024,
     cover: 'https://i.scdn.co/image/ab67616d00001e0275a241f4941701bf35e2e98c',
   },
+  {
+    artist: 'Barns Courtney',
+    name: 'Supernatural',
+    releaseYear: 2024,
+    cover: 'https://i.scdn.co/image/ab67616d00001e02c3c52522b00fd86cf2445e2a',
+  },
 ];
