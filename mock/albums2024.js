@@ -107,4 +107,10 @@ const albums = [
     releaseYear: 2024,
     cover: 'https://i.scdn.co/image/ab67616d00001e02c3c52522b00fd86cf2445e2a',
   },
+  {
+    artist: 'Rammstein',
+    name: 'Deutschland',
+    releaseYear: 2019,
+    cover: 'https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248',
+  },
 ];
