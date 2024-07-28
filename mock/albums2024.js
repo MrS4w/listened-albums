@@ -113,4 +113,10 @@ const albums = [
     releaseYear: 2019,
     cover: 'https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248',
   },
+  {
+    artist: 'Rammstein',
+    name: 'Rosenrot',
+    releaseYear: 2005,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273f57450066e72260794540c5d',
+  },
 ];
