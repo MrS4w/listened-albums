@@ -109,7 +109,7 @@ const albums = [
   },
   {
     artist: 'Rammstein',
-    name: 'Deutschland',
+    name: 'Rammstein',
     releaseYear: 2019,
     cover: 'https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248',
   },
