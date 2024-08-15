@@ -119,4 +119,16 @@ const albums = [
     releaseYear: 2005,
     cover: 'https://i.scdn.co/image/ab67616d0000b273f57450066e72260794540c5d',
   },
+  {
+    artist: 'Avenged Sevenfold',
+    name: 'Avenged Sevenfold',
+    releaseYear: 2007,
+    cover: 'https://i.scdn.co/image/ab67616d00001e026961462e67ee2a0aacd61bbc',
+  },
+  {
+    artist: 'Avenged Sevenfold',
+    name: 'Waking the Fallen',
+    releaseYear: 2003,
+    cover: 'https://i.scdn.co/image/ab67616d0000b273c6cc22f5b41a85deba08751e',
+  },
 ];
