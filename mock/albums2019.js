@@ -300,7 +300,7 @@ const albums = [
     artist: 'System Of A Down',
     name: 'Steal This Album!',
     releaseYear: 2002,
-    cover: 'https://upload.wikimedia.org/wikipedia/en/4/45/StealThisAlbum.png',
+    cover: 'https://i.scdn.co/image/ab67616d0000b2737cf4c0d42c5b62c9deebdcd8',
   },
   {
     artist: 'Iron Maiden',
