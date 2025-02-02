@@ -5,4 +5,10 @@ const albums = [
       releaseYear: 1983,
       cover: 'https://i.scdn.co/image/ab67616d0000b2732047927ddb02a89e8ec1dd30',
     },
+    {
+      artist: 'Los Hermanos',
+      name: 'Los Hermanos',
+      releaseYear: 1999,
+      cover: 'https://i.scdn.co/image/ab67616d0000b2732b4da5abb231f0dfc297ff09',
+    },
 ]
