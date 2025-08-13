@@ -17,4 +17,10 @@ const albums = [
       releaseYear: 1984,
       cover: 'https://i.scdn.co/image/ab67616d0000b2734fd0c84a79418987c8a16d50',
     },
+    {
+      artist: 'Billy Joel',
+      name: 'The Stranger',
+      releaseYear: 1977,
+      cover: 'https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f',
+    },
 ]
