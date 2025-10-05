@@ -69,7 +69,7 @@ const albums = [
       'https://upload.wikimedia.org/wikipedia/commons/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg',
   },
   {
-    artist: 'Twenty One Pilots',
+    artist: 'twenty One Pilots',
     name: 'Scaled and Icy',
     releaseYear: 2021,
     cover:
